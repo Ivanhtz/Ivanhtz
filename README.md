@@ -8,6 +8,6 @@
 [![Sass](https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass3&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 ## Find me at
