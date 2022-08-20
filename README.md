@@ -1,6 +1,6 @@
 # Hola, mi nombre es Iván 👋
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/Ivanhtz](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 ## Tecnologías
 
