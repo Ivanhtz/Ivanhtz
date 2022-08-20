@@ -16,3 +16,4 @@
 
 ## Encuéntrame en:
 
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/iv%C3%A1n-pizarroso-%C3%A1lvarez/?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
