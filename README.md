@@ -1,4 +1,4 @@
-# Hello, mi nombre es Iván 👋
+# Hola, mi nombre es Iván 👋
 
 
 ## Tecnologías
