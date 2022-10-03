@@ -17,6 +17,6 @@
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iván_pizarroso_álvarez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/iván-pizarroso-álvarez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iván_pizarroso_álvarez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-pizarroso-alvarez/)
 </br>
 [![Web](https://img.shields.io/badge/Web-ivanpizarroso.com-4c314e?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ivanpizarroso.com) 
